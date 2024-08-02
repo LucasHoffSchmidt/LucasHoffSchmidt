@@ -2,7 +2,7 @@
 
 My name is Lucas Hoff Schmidt.
 
-My journey in software development began with creating a game in C# using Unity. That experience ignited my passion for coding, and I've been expanding my knowledge ever since.
+My journey in software development began with creating a [game](https://www.youtube.com/watch?v=3bHDo86nl7s) in C# using Unity. That experience ignited my passion for coding, and I've been expanding my knowledge ever since.
 
 ### Courses and Certifications
 I have completed several key courses that have significantly contributed to my development skills:
