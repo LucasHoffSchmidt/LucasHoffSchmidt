@@ -18,6 +18,7 @@ I have completed several key courses that have significantly contributed to my d
 
 ### Projects
 Since completing these courses, I have been working on various projects, primarily using TypeScript. Currently, I am building an E-Commerce website called "Mini Market." This project is a marketplace for individuals to buy and sell reusable and affordable items.
+Technologies used include React, Redux, Node, Typescript, Jest, Nodemailer and Stripe. 
 
 ### Interests and Hobbies
 Outside of work, I enjoy:
