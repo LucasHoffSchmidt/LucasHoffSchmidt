@@ -6,7 +6,7 @@ My journey in software development began with creating an endless runner game in
 
 ### Project Highlights
 #### Adventures of Chirpie
-This is an endless runner game I made in C# with Unity for Google Play Store, itch.io and Unity Distribution Portal. 
+An endless runner game I made in C# with Unity for Google Play Store, itch.io and Unity Distribution Portal. 
 It features 8 different worlds with their own unique ambience, achievements, powerups, upgrades, different player characters, daily rewards, slot machine minigames and player trophies.  
 I made the game using gimp for designing assets, FL Studio for music, Bfxr for sound, Unity for game development and Shotcut for making videos.
 
@@ -16,7 +16,7 @@ Click the image below to watch a brief overview of what the game has to offer.
 [![Watch Trailer](https://i.ytimg.com/an_webp/3bHDo86nl7s/mqdefault_6s.webp?du=3000&sqp=CIO0q7YG&rs=AOn4CLD7E-Y59UD6RO0tI9jdQTyez7eW9g)](https://www.youtube.com/watch?v=3bHDo86nl7s)
 
 #### Mini Market
-I am currently building an E-Commerce website called "Mini Market." Mini Market is a marketplace for individuals to buy and sell reusable and affordable items.
+An E-Commerce website that I am developing. Mini Market is a marketplace for individuals to buy and sell reusable and affordable items.
 Technologies used include React, Redux, Node, Typescript, Jest and Playwright, Nodemailer and Stripe. 
 
 ### Courses and Certifications
