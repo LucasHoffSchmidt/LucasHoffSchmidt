@@ -13,7 +13,13 @@ I made the game using gimp for designing assets, FL Studio for music, Bfxr for s
 ##### Trailer
 Click the image below to watch a brief overview of what the game has to offer.
 
-[![Watch Trailer](https://i.ytimg.com/an_webp/3bHDo86nl7s/mqdefault_6s.webp?du=3000&sqp=CIO0q7YG&rs=AOn4CLD7E-Y59UD6RO0tI9jdQTyez7eW9g)](https://www.youtube.com/watch?v=3bHDo86nl7s)
+<a href="https://www.youtube.com/watch?v=3bHDo86nl7s">
+   <img src="https://img.youtube.com/vi/3bHDo86nl7s/maxresdefault.jpg" alt="Watch Trailer" width="400"/>
+</a>   
+
+##### Play the game
+You can play the game by downloading the game files from itch.io. 
+[Game Link](https://avillion.itch.io/adventures-of-chirpie)
 
 #### Mini Market
 An E-Commerce website that I am developing. Mini Market is a marketplace for individuals to buy and sell reusable and affordable items.
