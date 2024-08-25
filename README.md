@@ -2,10 +2,25 @@
 
 My name is Lucas Hoff Schmidt.
 
-My journey in software development began with creating a [game](https://www.youtube.com/watch?v=3bHDo86nl7s) in C# using Unity as a solo developer. I used gimp for designing assets, FL Studio for music and sound, and Shotcut for making videos. This experience ignited my passion for coding, and I've been expanding my knowledge ever since.
+My journey in software development began with creating an endless runner game in C# using Unity as a solo developer. This experience ignited my passion for coding, and I've been expanding my knowledge ever since.
+
+### Project Highlights
+#### Adventures of Chirpie
+This is an endless runner game I made in C# with Unity for Google Play Store, itch.io and Unity Distribution Portal. 
+It features 8 different worlds with their own unique ambience, achievements, powerups, upgrades, different player characters, daily rewards, slot machine minigames and player trophies.  
+I made the game using gimp for designing assets, FL Studio for music, Bfxr for sound, Unity for game development and Shotcut for making videos.
+
+##### Trailer
+Click the image below to watch a brief overview of what the game has to offer.
+
+[![Watch Trailer](https://i.ytimg.com/an_webp/3bHDo86nl7s/mqdefault_6s.webp?du=3000&sqp=CIO0q7YG&rs=AOn4CLD7E-Y59UD6RO0tI9jdQTyez7eW9g)](https://www.youtube.com/watch?v=3bHDo86nl7s)
+
+#### Mini Market
+I am currently building an E-Commerce website called "Mini Market." Mini Market is a marketplace for individuals to buy and sell reusable and affordable items.
+Technologies used include React, Redux, Node, Typescript, Jest and Playwright, Nodemailer and Stripe. 
 
 ### Courses and Certifications
-I have completed several key courses that have significantly contributed to my development skills:
+I have completed several key courses that have significantly contributed to my software development knowledge.
 
 1. **[Software Development Fundamentals](https://coursecareers.com/explore/software-dev-fundamentals)** by CourseCareers  
    ![Content learned](SoftwareDevelopmentFundamentals-Content.png)
@@ -16,17 +31,13 @@ I have completed several key courses that have significantly contributed to my d
 3. **[Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)** by Microsoft  
    ![Content learned](AzureFundamentals-Content.png)
 
-### Projects
-Since completing these courses, I have been working on various projects, primarily using TypeScript. Currently, I am building an E-Commerce website called "Mini Market." This project is a marketplace for individuals to buy and sell reusable and affordable items.
-Technologies used include React, Redux, Node, Typescript, Jest, Nodemailer and Stripe. 
-
 ### Interests and Hobbies
 Outside of work, I enjoy:
-- Calisthenics
-- Practicing kungfu
-- Playing piano
+- Weightlifting
 - Learning new languages
-- Spending quality time with my family
+- Watching sci-fi movies
+- Playing foosball
+- Board game nights
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lucas-hoff-schmidt-594855156/)
