@@ -30,7 +30,7 @@ This video shows an overview of the different elements in the game, segmented by
 
 #### Mini Market
 An E-Commerce website that I am developing. Mini Market is a marketplace for individuals to buy and sell reusable and affordable items.
-Technologies used include React, Redux, Node, Typescript, Jest and Playwright, Nodemailer and Stripe. 
+Technologies used include React, Redux, Node, Typescript, Jest, Playwright, Nodemailer and Stripe. 
 
 ### Courses and Certifications
 I have completed several key courses that have significantly contributed to my software development knowledge.
