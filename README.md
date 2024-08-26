@@ -11,22 +11,22 @@ It features 8 different worlds with their own unique ambience, achievements, pic
 I made the game using gimp for designing assets, FL Studio for music, Bfxr for sound, Unity for game development and Shotcut for making videos.
 
 #### Trailer
-This video shows a brief overview of what the game has to offer.
+Shows a brief overview of what the game has to offer.
 
 <a href="https://www.youtube.com/watch?v=3bHDo86nl7s">
    <img src="https://img.youtube.com/vi/3bHDo86nl7s/maxresdefault.jpg" alt="Watch Trailer" width="400"/>
 </a>   
 
-#### Play the game
-You can play the game by downloading the game files from itch.io. 
-[Game Link](https://avillion.itch.io/adventures-of-chirpie)
-
 #### Overview
-This video shows an overview of the different elements in the game, segmented by UI, worlds and powerups.
+Shows an exhaustive overview of the different elements in the game, segmented by UI, worlds and powerups.
 
 <a href="https://www.youtube.com/watch?v=sR40_GvIqTM">
    <img src="https://img.youtube.com/vi/sR40_GvIqTM/maxresdefault.jpg" alt="Watch Trailer" width="400"/>
 </a>   
+
+#### Play the game
+You can play the game by downloading the game files from itch.io. 
+[Game Link](https://avillion.itch.io/adventures-of-chirpie)
 
 ### Mini Market
 An E-Commerce website that I am developing. Mini Market is a marketplace for individuals to buy and sell reusable and affordable items.
