@@ -6,9 +6,9 @@ My journey in software development began with creating an endless runner game in
 
 ## Project Highlights
 ### Adventures of Chirpie
-An endless runner game I made in C# with Unity for Google Play Store, itch.io and Unity Distribution Portal. 
+An endless runner game I made in Unity for Google Play Store, itch.io and Unity Distribution Portal. 
 It features 8 different worlds with their own unique ambience, achievements, pickups, powerups, upgrades, different player characters, daily rewards, slot machine minigames and player trophies.  
-I made the game using gimp for designing assets, FL Studio for music, Bfxr for sound, Unity for game development and Shotcut for making videos.
+I made the game using gimp for designing assets, FL Studio for music, Bfxr for sound, Unity and C# for game development and Shotcut for making videos.
 
 #### Trailer
 Shows a brief overview of what the game has to offer.
