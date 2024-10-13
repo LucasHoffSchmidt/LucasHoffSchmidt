@@ -32,25 +32,17 @@ You can play the game by downloading the game files from itch.io.
 An E-Commerce website that I am developing. Mini Market is a marketplace for individuals to buy and sell reusable and affordable items.
 Technologies used include React, Redux, Node, Typescript, Jest, Playwright, Nodemailer and Stripe. 
 
-## Courses and Certifications
-I have completed several key courses that have significantly contributed to my software development knowledge.
+## Courses and certifications
+<b>Courses completed:</b> 
 
-1. **[Software Development Fundamentals](https://coursecareers.com/explore/software-dev-fundamentals)** by CourseCareers  
+**[Software Development Fundamentals](https://coursecareers.com/explore/software-dev-fundamentals)** by CourseCareers  
    ![Content learned](SoftwareDevelopmentFundamentals-Content.png)
    
-2. **[Backend Specialization](https://coursecareers.com/explore/software-dev-backend)** by CourseCareers  
+**[Backend Specialization](https://coursecareers.com/explore/software-dev-backend)** by CourseCareers - Certified  
    ![Content learned](BackendDevelopmentSpecialization-Content.png)
    
-3. **[Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)** by Microsoft  
+**[Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)** by Microsoft  
    ![Content learned](AzureFundamentals-Content.png)
-
-## Interests and Hobbies
-Outside of work, I enjoy:
-- Weightlifting
-- Learning new languages
-- Watching sci-fi movies
-- Playing foosball
-- Board game nights
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lucas-hoff-schmidt-594855156/)
