@@ -2,7 +2,7 @@
 
 My name is Lucas Hoff Schmidt.
 
-My journey in software development began with creating an endless runner game in C# using Unity as a solo developer. This experience ignited my passion for coding, and I've been expanding my knowledge ever since.
+My journey in software development began with creating an endless runner game in C# using Unity as a solo developer. This experience ignited my passion for creating, and I've been expanding my knowledge ever since.
 
 ## Project Highlights
 ### Adventures of Chirpie
@@ -27,10 +27,6 @@ Shows an exhaustive overview of the different elements in the game, segmented by
 #### Play the game
 You can play the game by downloading the game files from itch.io. 
 [Game Link](https://avillion.itch.io/adventures-of-chirpie)
-
-### Mini Market
-An E-Commerce website that I am developing. Mini Market is a marketplace for individuals to buy and sell reusable and affordable items.
-Technologies used include React, Redux, Node, Typescript, Jest, Playwright, Nodemailer and Stripe. 
 
 ## Courses and certifications
 <b>Courses completed:</b> 
