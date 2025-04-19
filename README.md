@@ -2,10 +2,10 @@
 
 My name is Lucas Hoff Schmidt.
 
-I am a data analyst with experience in SQL, PowerBI, Tableau, Python and Excel. 
-I have a Master of Science in Business Administration and Commercial Law - including a statistics course - and a certificate in Backend Development.
+I am an IBM and Microsoft Azure certified data scientist with experience in Python, SQL, Machine Learning, Statistical Modeling, Azure and PowerBI. 
+I have made various projects in data science, data analytics as well as a mobile app. 
 
-To see a portfolio of data analysis projects I have worked on, check out this website: [Personal Portfolio Website](https://lucashoffschmidt.github.io/)
+To see my projects, click here: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lucas-hoff-schmidt-594855156/)
