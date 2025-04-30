@@ -2,7 +2,7 @@
 
 My name is Lucas Hoff Schmidt.
 
-I am an IBM and Microsoft Azure certified data scientist with experience in Python, SQL, Machine Learning, Statistical Modeling, Azure Machine Learning and PowerBI. 
+I am involved with everything data. 
 I have made various projects in data science, data analytics as well as a mobile app. 
 
 To see my projects, click here: [Portfolio Website](https://lucashoffschmidt.github.io/)
