@@ -2,7 +2,7 @@
 
 My name is Lucas Hoff Schmidt.
 
-I am involved with everything data. 
+I am interested in everything data. 
 I have made various projects in data science, data analytics as well as a mobile app. 
 
 To see my projects, click here: [Portfolio Website](https://lucashoffschmidt.github.io/)
