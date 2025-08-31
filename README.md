@@ -1,14 +1,13 @@
 # Hi there 👋
 
-My name is Lucas Hoff Schmidt.
+My name is Lucas Hoff Schmidt and I am a dataholic. I rely on data in everything I do, to make the best decisions personally and professionally, for myself and for others. 
 
-I am interested in everything data. 
 I have made various projects in data science, data analytics as well as a mobile app. 
 
-To see my projects, click here: [Portfolio Website](https://lucashoffschmidt.github.io/)
+To see these, simply click here: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lucas-hoff-schmidt-594855156/)
 - Email: [Lucashoffschmidt@gmail.com](mailto:Lucashoffschmidt@gmail.com)
 
-Thank you for visiting my profile!
+Thank you for taking the time to read my riveting bio!
