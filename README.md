@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Lucas Hoff Schmidt and I am a dataholic. I rely on data in everything I do, to make the best decisions personally and professionally, for myself and for others. 
+My name is Lucas and I am a dataholic. I rely on data in everything I do, to make the best decisions personally and professionally, for myself and for others. 
 
 I have made various projects in data science, data analytics as well as a mobile app. 
 
