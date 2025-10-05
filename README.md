@@ -1,10 +1,8 @@
 # Hi there 👋
 
-My name is Lucas and I am a dataholic. I rely on data in everything I do, to make the best decisions personally and professionally, for myself and for others. 
+My name is Lucas and I have extensive experience across tools in the data ecosystem, spanning SQL, Python, Power BI and Excel and more. 
 
-I have made various projects in data science, data analytics as well as a mobile app. 
-
-To see these, simply click here: [Portfolio Website](https://lucashoffschmidt.github.io/)
+To check out the projects I have done, look no further: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lucas-hoff-schmidt-594855156/)
