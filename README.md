@@ -1,11 +1,13 @@
 # Hi there 👋
 
-My name is Lucas and I have extensive experience across tools in the data ecosystem, spanning SQL, Python, Power BI and Excel and more. 
+My name is Lucas and I am a data consultant. 
+I am fascinated about all the insights we can learn from analyzing data and how we can use this to make better decisions. 
+My skills include SQL, Python, Power BI, Machine learning and Excel among others. 
 
-To check out the projects I have done, look no further: [Portfolio Website](https://lucashoffschmidt.github.io/)
+If you are interested in data, want to collaborate or just want to say hi, feel free to connect with me. 
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lucas-hoff-schmidt-594855156/)
 - Email: [Lucashoffschmidt@gmail.com](mailto:Lucashoffschmidt@gmail.com)
 
-Thank you for taking the time to read my riveting bio!
+Thank you for reading my bio!
