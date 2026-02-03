@@ -1,9 +1,9 @@
 # Hi there 👋
 
-My name is Lucas and I am a Business Analyst, specializing in python. 
-I am intrigued by the driving forces behind actions. Given a choice of 3 different actions, what are the factors that make you decide that one choice is better than the others? 
-How much of a choice is based purely on subjective opinion, and how much is due to influencing factors such as parents, culture and current trends? 
-Initially, I may hypothesize, but through analysis, I will know. 
+My name is Lucas, and I am a product designer. 
+I enjoy tinkering, figuring out how something works, and how to make it better.
+I am passionate about creating amazing user experiences, leaving a sensation of wonder and awe. 
+If you have a product idea and are wondering whether it could work, please feel free to reach out to me, and I will be happy to develop the concept with you.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lucashoffschmidt/)
