@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Lucas, and I am a Technical Business Analyst. 
+My name is Lucas, and I am a cand.merc.(jur.) with analytical and technical expertise. 
 I enjoy tinkering, figuring out how something works, and how to make it better.
 I am passionate about solving problems and creating tangible solutions with a real human impact. 
 
