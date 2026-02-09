@@ -1,7 +1,7 @@
 # Hi there 👋
 
-My name is Lucas, and I am a cand.merc.(jur.) with analytical and technical expertise. 
-I enjoy tinkering, figuring out how something works, and how to make it better.
+My name is Lucas. I am a Business Lawyer with analytical expertise. 
+I enjoy the detective process of figuring out how something is connected and how to make it better. 
 I am passionate about solving problems and creating tangible solutions with a real human impact. 
 
 Check out my portfolio: https://lucashoffschmidt.github.io/
